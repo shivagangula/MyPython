@@ -1,8 +1,10 @@
 CHAPTER -1 
-    ```
+
+```
   Print('HELLOW)
 ```
-    Identifier
+
+Identifier
     Reserved Keywords
     Constant
     Varaible
