@@ -1,10 +1,10 @@
 **CHAPTER -1** 
--Identifier
--Reserved Keywords
--Constant
--Varaible
--Declearing & intiate Variable 
--DataTypes
+  - Identifier
+- Reserved Keywords
+- Constant
+- Varaible
+- Declearing & intiate Variable 
+- DataTypes
     Built-in datatypes
        Binary Types: memoryview, bytearray, bytes
        Boolean Type: bool
