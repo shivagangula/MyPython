@@ -1,7 +1,7 @@
 # Python Learing Index end to end
 
 ## **CHAPTER -1 ( Basics )** 
-  - 1.Identifier
+  - [1.Identifier](https://github.com/Shiva-Practice-Works/MyPython/blob/master/1.Chapter-1/1.identifier/info.md)
 - 2.Reserved Keywords
 - 3.Constant
 - 4.Varaible

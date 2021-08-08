@@ -5,9 +5,9 @@ A Python identifier is a name used to identify a variable, function, class, modu
 - Python does not allow punctuation characters such as @, $, and % within identifiers.
 ```python
 my_variable = 10 # valid
-my@variable = 10 #not vaild
+my@variable = 10 # not vaild because @ is there in 
 ```
-- Python is a case sensitive programming language. Thus, Manpower and manpower are two different identifiers in Python.
+- Python is a case sensitive programming language. Thus, my_variable and My_variable are two different identifiers in Python.
 
 ```python
 my_variable = 10 
