@@ -8,13 +8,26 @@
 - 5.Declearing & intiate Variable 
 - 6.DataTypes
 - 7.Built-in datatypes
-  - 7.1.[Binary Types]((../MyPython/master/1.Chapter-1/7.Datatypes/binary_datatypes)): [memoryview]((../MyPython/master/1.Chapter-1/7.Datatypes/binary_datatypes/memoryview)), bytearray, bytes
-  - 7.2.[Boolean Type]((../MyPython/master/1.Chapter-1/7.Datatypes/binary_datatypes)): bool
-  - 7.3.Set Types: frozenset, set
-  - 7.4.Mapping Type: dict
-  - 7.5.Sequence Types: range, tuple, list
-  - 7.6.Numeric Types: complex, float, int
-  - 7.7.Text Type: [string](https://github.com/Shiva-Practice-Works/MyPython/tree/master/1.Chapter-1/7.Datatypes/string_datatype)
+  - 7.1.[Binary Types](../MyPython/master/1.Chapter-1/7.Datatypes/7.1.binary_datatypes/)
+    - bytearray
+    - bytes
+  - 7.2.Boolean Type
+    - bool
+  - 7.3.Set Types
+    - frozenset
+    - set
+  - 7.4.Mapping Type
+    - dict
+  - 7.5.Sequence Types
+     - range
+     - tuple
+     - list
+  - 7.6.Numeric Types
+     - complex
+     - float
+     - int
+  - 7.7.Text Type
+     - [string data type](../MyPython/master/1.Chapter-1/7.Datatypes/7.7.string_datatype)
 - 8.Escap Squence
 - 9.type casting & Type conversion
 - 10.del keywords
