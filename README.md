@@ -1,26 +1,26 @@
-# CORE PYTHON
+# Python Learing Index end to end
 
-**CHAPTER -1** 
-  - Identifier
-- Reserved Keywords
-- Constant
-- Varaible
-- Declearing & intiate Variable 
-- DataTypes
-- Built-in datatypes
-  - Binary Types: memoryview, bytearray, bytes
-  - Boolean Type: bool
-  - Set Types: frozenset, set
-  - Mapping Type: dict
-  - Sequence Types: range, tuple, list
-  - Numeric Types: complex, float, int
-  - Text Type: str
-- Escap Squence
-- type casting & Type conversion
-- del keywords
+## **CHAPTER -1 ( Basics )** 
+  - 1.Identifier
+- 2.Reserved Keywords
+- 3.Constant
+- 4.Varaible
+- 5.Declearing & intiate Variable 
+- 6.DataTypes
+- 7.Built-in datatypes
+  - 7.1.Binary Types: memoryview, bytearray, bytes
+  - 7.2.Boolean Type: bool
+  - 7.3.Set Types: frozenset, set
+  - 7.4.Mapping Type: dict
+  - 7.5.Sequence Types: range, tuple, list
+  - 7.6.Numeric Types: complex, float, int
+  - 7.7.Text Type: str
+- 8.Escap Squence
+- 9.type casting & Type conversion
+- 10.del keywords
 
 
-**CHAPTER-2**
+## **CHAPTER-2 ( Oprators )**
 - Arthamatic Oprators
 - compression Oprators
 - Logical Oprators
@@ -31,14 +31,14 @@
 - Oprators Precedence
 
 
-**CHAPTER -3** 
+## **CHAPTER -3 ( statements )** 
 - if statment
 - if else statment
 - if elif else statment
 - nested if statment
 - single line if statements
 
-**CHAPTER - 4**
+## **CHAPTER - 4 ( loops )**
 - for loop
 - nested for loop
 - while
@@ -48,7 +48,7 @@
 - contuinus
 - pass
 
-**CHAPTER - 5.1**
+## **CHAPTER - 5.1 ( Functions )**
 
    - normal function
    - Function Returning value
@@ -59,7 +59,7 @@
    - Actual argments
    - Formal argments
 
-** CHAPTER - 5.2**
+## **CHAPTER - 5.2 ( Functions )**
    - lambda
    - nested lambda
    - passing lambda as parameter 
@@ -71,7 +71,7 @@
    - recursion function
 
 
-**CHAPTER - 5.3**
+## **CHAPTER - 5.3 ( Functions )**
    - decorator
    - high order functions
       - filter,
@@ -81,7 +81,7 @@
    - genartors
    - closere
 
-**CHAPTER - 6**
+## **CHAPTER - 6 ( Compersions )**
    - compernsions
      - list compernsions
         - nested compernsions
@@ -89,11 +89,10 @@
        - nseted set compernsions
      - dictionery compernsions
 
-**CHAPTER - 7** 
+## **CHAPTER - 7 ( Documenting )** 
 - docstrings
 
-**CHAPTER - 8** 
-   - useful inbuilt functions
+## **CHAPTER - 8 ( Usefull functions )** 
    - id
    - type
    - getSize
@@ -107,11 +106,9 @@
    - sleep
    - input
 
-# ADVANCED PYTHON
-
-**CHAPTER -1**
+## **CHAPTER -10 ( OOPs )**
    - Oops
-   - class,
+   - class
    - object
    - constractor
    - class instance
@@ -124,30 +121,30 @@
    - pass class object to outher class
    - nested class
 
-**CHAPTER - 2 Encapsulation**
+## **CHAPTER - 11 ( Encapsulation )**
 
-**CHAPTER - 3 Abstract**
+## **CHAPTER - 12 ( Abstract )**
    - abstarct clas
    - abstract method
    - context method
 
-**CHAPTER -4 Inhertance**
+## **CHAPTER - 13 ( Inhertance )**
    - contrstutor in inhartance
    - types of interfaces
    - contructor with super()
 
-**CHAPTER -5 Polymorphisam**
+## **CHAPTER - 14 ( Polymorphisam )**
    - duck typing
    - study typing
    - method overriding
    - method overloading
    - oprator overloading
 
-**CHAPTER -6**
+## **CHAPTER - 15 ( Packages )**
 - modules
 - packages
 
-**CHAPTER -7**
+## **CHAPTER - 16 ( Exceptions )**
 - assert keyword
 - Errors & exception 
    - Syntax Errors
@@ -162,15 +159,15 @@
      - Exception Chaining
      - User-defined Exceptions or custom exceptions
    
-**CHAPTER -8**
+## **CHAPTER - 17 ( interactions )**
    - making directors
    - file handling
    - connecting database
 
-**CHAPTER -9**
+## **CHAPTER - 18 ( Multithreading )**
    - multithreading
 
-**CHAPTER -10 Important Moduels**
+## **CHAPTER -19 ( Important Moduels )**
    - pickiling
    - Math
    - itertools
@@ -186,4 +183,4 @@
    - logging
    - funtools
 
-:memo:Writen by shivagangula
+:memo: Writen by shivagangula
