@@ -27,7 +27,7 @@
      - float
      - int
   - 7.7.Text Type
-     - [string data type](../MyPython/master/1.Chapter-1/7.Datatypes/7.7.string_datatype)
+     - [string data type](https://github.com/Shiva-Practice-Works/MyPython/blob/master/1.Chapter-1/7.Datatypes/7.7.string_datatype/info.md)
 - 8.Escap Squence
 - 9.type casting & Type conversion
 - 10.del keywords
