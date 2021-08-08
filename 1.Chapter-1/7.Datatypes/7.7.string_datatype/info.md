@@ -17,3 +17,5 @@ my_variable_3 = '''hii
 my_variable_4 = """hii 
                    Python"""
 ```
+
+checkout string methods [here](https://github.com/Shiva-Practice-Works/MyPython/blob/master/1.Chapter-1/7.Datatypes/7.7.string_datatype/python_string_methods.md)
