@@ -14,7 +14,7 @@
   - 7.4.Mapping Type: dict
   - 7.5.Sequence Types: range, tuple, list
   - 7.6.Numeric Types: complex, float, int
-  - 7.7.Text Type: [string] (https://github.com/Shiva-Practice-Works/MyPython/tree/master/1.Chapter-1/7.Datatypes/string_datatype)
+  - 7.7.Text Type: [string](https://github.com/Shiva-Practice-Works/MyPython/tree/master/1.Chapter-1/7.Datatypes/string_datatype)
 - 8.Escap Squence
 - 9.type casting & Type conversion
 - 10.del keywords
