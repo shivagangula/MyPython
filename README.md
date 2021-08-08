@@ -8,8 +8,8 @@
 - 5.Declearing & intiate Variable 
 - 6.DataTypes
 - 7.Built-in datatypes
-  - 7.1.Binary Types: memoryview, bytearray, bytes
-  - 7.2.Boolean Type: bool
+  - 7.1.[Binary Types]((../MyPython/master/1.Chapter-1/7.Datatypes/binary_datatypes)): [memoryview]((../MyPython/master/1.Chapter-1/7.Datatypes/binary_datatypes/memoryview)), bytearray, bytes
+  - 7.2.[Boolean Type]((../MyPython/master/1.Chapter-1/7.Datatypes/binary_datatypes)): bool
   - 7.3.Set Types: frozenset, set
   - 7.4.Mapping Type: dict
   - 7.5.Sequence Types: range, tuple, list
